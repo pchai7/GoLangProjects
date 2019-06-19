@@ -7,7 +7,7 @@ import (
 func main() {
 	var plantCapacities []float64
 
-	plantCapacities = []float64{30, 30, 30, 60, 60, 100}
+	plantCapacities = []float64{30, 30, 30, 60, 60, 90, 100}
 
 	var capacity float64 = plantCapacities[0] + plantCapacities[1] + 
 	plantCapacities[2] + plantCapacities[3] + plantCapacities[4] +
