@@ -2,7 +2,6 @@
     Hello World!
     Data Structure/Types
     ArraysSlices
-    Loops
+    Loopy Loops
     Collections
     GopherPowerLight
-    
