@@ -1,7 +1,9 @@
 # GoLangProjects
-    Hello World!
-    Data Structure/Types
-    ArraysSlices
-    Loopy Loops
-    Collections
-    GopherPowerLight
+    Topics --
+    
+        Hello World!
+        Data Structure/Types
+        ArraysSlices
+        Loopy Loops
+        Collections
+        GopherPowerLight
